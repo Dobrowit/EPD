@@ -1,24 +1,24 @@
 EGB_RodzajWgKST
-mieszkalny = m
-produkcyjnyUslugowyIGospodarczy = g
-transportuILacznosci = t
-oswiatyNaukiIKulturyOrazSportu = k
-szpitalaIInneBudynkiOpiekiZdrowotnej = z
-biurowy = b
-handlowoUslugowy = h
-przemyslowy = p
-zbiornikSilosIBudynekMagazynowy = s
-budynekNiemieszkalny = i
+  - mieszkalny = m
+  - produkcyjnyUslugowyIGospodarczy = g
+  - transportuILacznosci = t
+  - oswiatyNaukiIKulturyOrazSportu = k
+  - szpitalaIInneBudynkiOpiekiZdrowotnej = z
+  - biurowy = b
+  - handlowoUslugowy = h
+  - przemyslowy = p
+  - zbiornikSilosIBudynekMagazynowy = s
+  - budynekNiemieszkalny = i
 
 EGB_RodzajObiektu
-taras = t
-werandaGanek = w
-wiatrolap = i
-schody = s
-rampa = r
-podpora = o
-wjazdDoPodziemia = j
-podjazdDlaOsobNiepelnosprawnych = d
+  - taras = t
+  - werandaGanek = w
+  - wiatrolap = i
+  - schody = s
+  - rampa = r
+  - podpora = o
+  - wjazdDoPodziemia = j
+  - podjazdDlaOsobNiepelnosprawnych = d
 
 Podstawa prawna:
 Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków (Dz.U. 2021 poz. 1390) - załącznik nr 6
