@@ -1,24 +1,24 @@
-EGB_RodzajWgKST
-  - m - mieszkalny
-  - g - produkcyjny, usługowy, gospodarczy
-  - t - transportu, łączności
-  - k - oswiaty, nauki, kultury, sportu
-  - z - szpitala, inne budynki opieki zdrowotnej
+EGB_RodzajWgKST (budynki):
   - b - biurowy
+  - g - produkcyjny, usługowy, gospodarczy
   - h - handlowo-usługowy
+  - i - budynek niemieszkalny
+  - k - oswiaty, nauki, kultury, sportu
+  - m - mieszkalny
   - p - przemysłowy
   - s - zbiornik, silos, budynek magazynowy
-  - i - budynek niemieszkalny
+  - t - transportu, łączności
+  - z - szpitala, inne budynki opieki zdrowotnej
 
-EGB_RodzajObiektu
+EGB_RodzajObiektu (inne obiekty budowlane):
+  - d - podjazd dla osób niepełnosprawnych
+  - i - wiatrołap
+  - j - wjazd do podziemia
+  - o - podpora
+  - r - rampa
+  - s - schody
   - t - taras
   - w - weranda, ganek
-  - i - wiatrołap
-  - s - schody
-  - r - rampa
-  - o - podpora
-  - j - wjazd do podziemia
-  - d - podjazd dla osób niepełnosprawnych
 
 Podstawa prawna:
 
