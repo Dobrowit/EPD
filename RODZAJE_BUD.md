@@ -1,24 +1,24 @@
 EGB_RodzajWgKST
-  - mieszkalny = m
-  - produkcyjnyUslugowyIGospodarczy = g
-  - transportuILacznosci = t
-  - oswiatyNaukiIKulturyOrazSportu = k
-  - szpitalaIInneBudynkiOpiekiZdrowotnej = z
-  - biurowy = b
-  - handlowoUslugowy = h
-  - przemyslowy = p
-  - zbiornikSilosIBudynekMagazynowy = s
-  - budynekNiemieszkalny = i
+  - m - mieszkalny
+  - g - produkcyjny, usługowy, gospodarczy
+  - t - transportu, łączności
+  - k - oswiaty, nauki, kultury, sportu
+  - z - szpitala, inne budynki opieki zdrowotnej
+  - b - biurowy
+  - h - handlowo-usługowy
+  - p - przemysłowy
+  - s - zbiornik, silos, budynek magazynowy
+  - i - budynek niemieszkalny
 
 EGB_RodzajObiektu
-  - taras = t
-  - werandaGanek = w
-  - wiatrolap = i
-  - schody = s
-  - rampa = r
-  - podpora = o
-  - wjazdDoPodziemia = j
-  - podjazdDlaOsobNiepelnosprawnych = d
+  - t - taras
+  - w - weranda, ganek
+  - i - wiatrołap
+  - s - schody
+  - r - rampa
+  - o - podpora
+  - j - wjazd do podziemia
+  - d - podjazd dla osób niepełnosprawnych
 
 Podstawa prawna:
 
